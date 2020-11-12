@@ -1,10 +1,10 @@
-# The official Yeld yield application
+# The official Orbit yield application
 
 The contracts are in development. Based on the open source contracts from yearn.finance, we'll implement our innovative algorithms on top of their solid and audited codebase.
 
 # Addresses
 
-YELD coin token -> 0x468ab3b1f63A1C14b361bC367c3cC92277588Da1
+Orbit coin token -> 00000000000000000
 
 YeldDAI (Yeld Earning Token) -> 0x3E5723C9040D24E7fb4be9f9849F73dD6305204A
 
